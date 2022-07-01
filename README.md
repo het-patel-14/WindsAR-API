@@ -4,9 +4,6 @@
 
 The project was developed in a team of 4 members at the University of Windsor.
 
-The front end was developed on the repository: https://github.com/neelJadav27/WindsAR
-
-The Back end was developed on the repository: https://github.com/musan801/WindsAR
 
 WindsAR is a mobile application which is developed to increase the revenue of tourism in Windsor city. The purpose of this project is to provide key information about various tourist places to the visitors in an Augmented way. Another primary goal of ‘WindsAR’ is to increase business of local vendors like shops, restaurants, cafes in Windsor and bring new customers to their doorstep.
 
